@@ -10,3 +10,5 @@ Developing this project not only strengthened my frontend development skills but
 ✨ Future Prospects <br>
 Looking forward, this project aspires to integrate dynamic backend support and real-time streaming APIs, enabling users to build personalized playlists, discover trending music, and experience a fully functional digital concert hall right at their fingertips. <br><br>
 
+in case, the media files are removed or disrupted access the media files through drive folder (permission must be needed)- <br>
+https://drive.google.com/drive/folders/1WyJTblJ0DdBNqwAvqUYZOP93_B7Vzmkl?usp=sharing
